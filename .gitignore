@@ -1,0 +1,4 @@
+*.pyc
+__pycache__/
+note_session.json
+*.env
